@@ -1,9 +1,13 @@
-# dasebaztian
 # Sebastián Sánchez
 ### Network Engineer | Universidad Veracruzana
 
 ---
 
-### Skills
+### Hard Skills
         - Python
         - bash scripting
+        - C++
+### Soft Skills
+        - Leadership
+        - Team player
+        - Self taught
