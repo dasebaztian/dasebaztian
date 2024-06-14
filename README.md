@@ -1,6 +1,5 @@
-# Sebastián Sánchez
-### Network Engineer | Universidad Veracruzana
-
+<h1 align="center">Hi 👋, I'm Sebastián Sánchez</h1>
+<h2 align="center">Network Engineer | Universidad Veracruzana</h2> 
 ---
 
 ### Hard Skills
