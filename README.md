@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sebastián Sánchez</h1>
+<h1 align="center">Hi I'm Sebastián Sánchez</h1>
 <h2 align="center">Network Engineer | Universidad Veracruzana</h2> 
----
+
 
 ### Hard Skills
         - Python
-        - bash scripting
-        - C++
+        - Bash scripting
+        - Linux
+        - Pentesting
 ### Soft Skills
         - Leadership
         - Team player
